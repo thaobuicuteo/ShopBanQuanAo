@@ -8,6 +8,7 @@
   + Xem chi tiết sản phẩm
   + Chỉnh sửa giỏ hàng, lưu giỏ hàng theo phiên
   + Đặt hàng
+
 **- Trang quản trị:**
   + Đăng nhập
   + Thống kê doanh thu (Theo ngày/tháng, theo phương thức thanh toán)
