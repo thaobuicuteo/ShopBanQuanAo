@@ -3,7 +3,7 @@
 ### Mục đích: Tạo ra website bán hàng cơ bản sử dụng Node.js và SQL Server
 ### Công nghệ sử dụng:
 + Front-end: HTML, CSS, JavaScript
-+ Back-end: Node.js (Express)
++ Back-end: Node.js
 + Cơ sở dữ liệu: SQL Server
 + Công cụ: Visual Studio Code, SQL Server Management Studio
 ### Tính năng:
